@@ -109,9 +109,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RethulKC&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RethulKC&theme=default" width="48%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RethulKC&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RethulKC&theme=default" width="48%"/>
 
 </div>
 
@@ -119,9 +119,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RethulKC&theme=github_dark&utcOffset=5.5" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RethulKC&theme=default&utcOffset=5.5" width="48%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RethulKC&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RethulKC&theme=default" width="48%"/>
 
 </div>
 
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RethulKC&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RethulKC&theme=default"/>
 
 </div>
 
@@ -140,7 +140,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RethulKC&layout=donut&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RethulKC&layout=donut&theme=default&hide_border=true"/>
 
 </div>
 
@@ -150,7 +150,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RethulKC&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RethulKC&theme=default"/>
 
 </div>
 
@@ -158,7 +158,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RethulKC&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RethulKC&theme=default"/>
 
 </div>
 
@@ -167,18 +167,18 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RethulKC&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RethulKC&theme=default"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RethulKC&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RethulKC&theme=default" width="48%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RethulKC&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RethulKC&theme=default" width="48%"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RethulKC&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RethulKC&theme=default" width="48%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RethulKC&theme=github_dark&utcOffset=5.5" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RethulKC&theme=default&utcOffset=5.5" width="48%"/>
 
 </div>
