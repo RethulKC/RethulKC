@@ -48,18 +48,3 @@
 <img width="90%" src="https://streak-stats.demolab.com?user=RethulKC&theme=vue&hide_border=true"/>
 
 </div>
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RethulKC&show_icons=true&theme=vue&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RethulKC&layout=compact&theme=vue&hide_border=true&cache_seconds=1800"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=RethulKC&theme=vue&hide_border=true"/>
-
-</div>
