@@ -10,6 +10,20 @@
 
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
+
+## 🚀 About Me
+
+- 💼 Devops Engineer
++ 📍 Bangalore, India
+- 🌱 Currently learning **Agentic AI**
++ 💻 Interested in **Cloud Technologies**
+- 🎯 Goal : Become a Kubernetes Expert
++ ⚡ Always learning and building
+
+
 ---
 
 ## 🛠️ Tech Stack
