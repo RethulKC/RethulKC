@@ -6,10 +6,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+real-time+Voice+AI+systems+%F0%9F%8E%99%EF%B8%8F;Shipping+LLM+Agents+%26+RAG+Pipelines+%F0%9F%A4%96;AWS+%7C+GCP+%7C+Kubernetes+%7C+Terraform+%E2%98%81%EF%B8%8F;Medical+AI+%7C+Clinical+NLP+%7C+IVR+Systems+%F0%9F%8F%A5)](https://git.io/typing-svg)
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=Automating+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Building+CI%2FCD+Pipelines+%F0%9F%9A%80;Managing+Containers+at+Scale+%F0%9F%90%B3;Infrastructure+as+Code+with+Terraform+%F0%9F%8F%97%EF%B8%8F;Deploying+Applications+on+AWS+%E2%98%81%EF%B8%8F;Linux+%7C+Python+%7C+Bash+Automation+%F0%9F%90%A7;Monitoring+with+Grafana+%26+Prometheus+%F0%9F%93%88;Always+Learning+New+Cloud+Technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
