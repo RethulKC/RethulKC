@@ -82,6 +82,14 @@
 <br><br>
 </div>
 
+## 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RethulKC&theme=vue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 ## 🐍 Contribution Snake
 <!-- Snake Game Repo View -->
 
