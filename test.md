@@ -103,3 +103,82 @@
 ## ⚡ Fun Fact
 
 > "Automate repetitive tasks so you can focus on solving real problems."
+
+
+## 📚 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RethulKC&theme=github_dark" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RethulKC&theme=github_dark" width="48%"/>
+
+</div>
+
+## 💻 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RethulKC&theme=github_dark&utcOffset=5.5" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RethulKC&theme=github_dark" width="48%"/>
+
+</div>
+
+
+## 📊 Profile Details
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RethulKC&theme=github_dark"/>
+
+</div>
+
+
+
+## 🌐 Language Distribution
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RethulKC&layout=donut&theme=github_dark&hide_border=true"/>
+
+</div>
+
+
+
+## 📈 Repository Languages
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RethulKC&theme=tokyonight"/>
+
+</div>
+
+## 🧩 Commit Language Breakdown
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RethulKC&theme=tokyonight"/>
+
+</div>
+
+
+## 📦 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RethulKC&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RethulKC&theme=github_dark" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RethulKC&theme=github_dark" width="48%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RethulKC&theme=github_dark" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RethulKC&theme=github_dark&utcOffset=5.5" width="48%"/>
+
+</div>
