@@ -23,7 +23,6 @@
 - 🎯 Goal : Become a Kubernetes Expert
 + ⚡ Always learning and building
 
----
 
 ## 📚 Currently Learning
 
