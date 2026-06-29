@@ -23,7 +23,6 @@
 - 🎯 Goal : Become a Kubernetes Expert
 + ⚡ Always learning and building
 
----
 
 ## 🛠️ Tech Stack
 
@@ -71,7 +70,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -90,7 +88,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
 
 <div align="center">
 
