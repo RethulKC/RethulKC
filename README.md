@@ -90,7 +90,6 @@
 
 </div>
 
-## 🐍 Contribution Snake
 <!-- Snake Game Repo View -->
 
 <div align="center">
