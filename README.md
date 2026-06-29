@@ -23,6 +23,15 @@
 - 🎯 Goal : Become a Kubernetes Expert
 + ⚡ Always learning and building
 
+---
+
+## 📚 Currently Learning
+
+- 🤖 Agentic AI
++ ☸️ Advanced Kubernetes
+- ☁️ Cloud Architecture
++ 🔐 DevSecOps
+- 📊 Observability & Monitoring
 
 ---
 
