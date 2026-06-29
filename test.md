@@ -182,3 +182,44 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RethulKC&theme=default&utcOffset=5.5" width="48%"/>
 
 </div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/RethulKC">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+## ⏰ Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RethulKC&theme=default&utcOffset=5.5" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RethulKC&theme=default" width="48%"/>
+
+</div>
+
+## 💭 Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+</div>
+
+
+## ⚡ Fun Fact
+
+> "I enjoy automating repetitive tasks, optimizing cloud infrastructure, and building scalable deployment pipelines."
